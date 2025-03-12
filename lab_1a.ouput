@@ -1,0 +1,17 @@
+"C:\Program Files\Java\jdk-22\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.4.1\lib\idea_rt.jar=53159" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\Admin\Desktop\1BM23AI130\out\production\1BM23AI130 Praneetha_adiga.lab_1a
+Welcome to the Gym Membership Management System!
+Enter the name
+praneetha
+Enter the age of the member
+18
+Enter the status of the membership(true/false):
+true
+Enter the duration of membership(in months):
+5
+The name of the member is praneetha
+The age of the member is 18
+The membership status of the member is true
+The duration of the member is 5
+The fee for the member is 250.0
+
+Process finished with exit code 0
